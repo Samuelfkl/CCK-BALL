@@ -70,7 +70,7 @@
         num_layers {
             bindings = <
 &trans     &kp N1  &kp N2  &kp N3  &kp N4  &kp N5   &kp N6     &kp N7    &kp N8     &kp N9     &kp N0  &kp DEL
-&kp GRAVE  &kp LBKT  &kp RBKT  &kp NUBS  &none  &none   &none  &kp MINUS  &kp EQUAL  &kp SEMI  &SQT    &kp BSPC
+&kp GRAVE  &kp LBKT  &kp RBKT  &kp NUBS  &none  &none   &none  &kp MINUS  &kp EQUAL  &kp SEMI  &kp SQT    &kp BSPC
 &kp CAPS   &kp F6  &kp F7  &kp F8  &kp F9  &kp F10  &kp HOME   &kp END   &kp PG_UP  &kp PG_DN  &none   &kp F12
 &trans     &trans  &trans  &trans  &trans  &trans   &mkp LCLK  &mo 3     &trans     &trans     &trans  &trans
             >;
