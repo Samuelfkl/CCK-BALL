@@ -101,7 +101,7 @@
             bindings = <
 &trans  &kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6  &kp F7  &kp F8  &kp F9  &kp F10   &kp DEL
 &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp LEFT  &kp UP  &kp DOWN  &kp RIGHT  &kp BSPC
-&trans  &trans  &trans  &trans  &trans  &trans  &SCRL_UP  &SCRL_DOWN  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &msc SCRL_UP  &msc SCRL_DOWN  &trans  &trans  &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &mkp LCLK  &mkp RCLK &mkp MCLK  &trans  &trans  &trans
             >;
 
